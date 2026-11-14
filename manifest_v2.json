@@ -5,11 +5,15 @@
     "name": "星际拓荒-星图",
     "description": "《星际拓荒》的太阳系。星体图标取材自游戏目录，太阳素材来自steam徽章。太阳形态随手表本地时间在五种形态之间切换。表盘显示时间、日期、英文星期、电量、卡路里、心率、天气和气温。目前适配红米手表 6，会尝试增加更多适配型号。\n\n本表盘为免费同人作品。游戏美术及太阳徽章的权利归各自权利人所有。本作品未获Mobius Digital 认可、背书或赞助",
     "preview": [
+      "media/星际拓荒表盘-星图封面-1200x800.png",
       "media/04-Solar-System-01-The-Sun.png",
       "media/04-Solar-System-02-Subgiant.png",
       "media/04-Solar-System-03-Red-Giant.png",
       "media/04-Solar-System-04-Star-Collapse.png",
       "media/04-Solar-System-05-Supernova.png",
+      "media/04-Solar-System-N62.png",
+      "media/04-Solar-System-N66.png",
+      "media/04-Solar-System-N67.png",
       "media/01-The-Sun.png"
     ],
     "icon": "media/icon.png",
@@ -26,6 +30,81 @@
     "xmrw6": {
       "version": "1.0.0",
       "file_name": "downloads/04-Solar-System.bin",
+      "versionCode": 65536
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-RW5.bin",
+      "versionCode": 65536
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-RW5.bin",
+      "versionCode": 65536
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-N66.bin",
+      "versionCode": 65536
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-O66.bin",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-O66.bin",
+      "versionCode": 65536
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-P67.bin",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-O66.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-O66.bin",
+      "versionCode": 65536
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-P67.bin",
+      "versionCode": 65536
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-O62.bin",
+      "versionCode": 65536
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-O62.bin",
+      "versionCode": 65536
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-O62.bin",
+      "versionCode": 65536
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-O62.bin",
+      "versionCode": 65536
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-O62.bin",
+      "versionCode": 65536
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/04-Solar-System-P62.bin",
       "versionCode": 65536
     }
   },
