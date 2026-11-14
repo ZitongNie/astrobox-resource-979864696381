@@ -3,7 +3,7 @@
     "id": "979864696381",
     "restype": "watchface",
     "name": "星际拓荒-星图",
-    "description": "《星际拓荒》的太阳系。星体图标取材自游戏目录，太阳素材来自steam徽章。太阳形态随手表本地时间在五种形态之间切换。表盘显示时间、日期、英文星期、电量、卡路里、心率、天气和气温。目前适配红米手表 6，会尝试增加更多适配型号。\n\n本表盘为免费同人作品。游戏美术及太阳徽章的权利归各自权利人所有。本作品未获Mobius Digital 认可、背书或赞助",
+    "description": "《星际拓荒》的太阳系。星体图标取材自游戏目录，太阳素材来自steam徽章。太阳形态随手表本地时间在五种形态之间切换。表盘显示时间、日期、英文星期、电量、卡路里、心率、天气和气温。目前适配红米手表 6，会尝试增加更多适配型号。\n\n本表盘为免费同人作品。游戏美术及太阳徽章的权利归各自权利人所有。本作品未获Mobius Digital 认可、背书或赞助\nip:星际拓荒",
     "preview": [
       "media/星际拓荒表盘-星图封面-1200x800.png",
       "media/04-Solar-System-01-The-Sun.png",
@@ -14,7 +14,8 @@
       "media/04-Solar-System-N62.png",
       "media/04-Solar-System-N66.png",
       "media/04-Solar-System-N67.png",
-      "media/01-The-Sun.png"
+      "media/01-The-Sun.png",
+      "media/preview-04-credits.png"
     ],
     "icon": "media/icon.png",
     "cover": "media/cover.png",
